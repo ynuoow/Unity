@@ -229,7 +229,7 @@ Mask)的形式保存在Diffuse/Albedo通道中。
 | Particle System         | PS_    |        |       |
 | Material (Post Process) | PP_    |        |       |
 
-### 1.2.12 Prefabs(预制体)  ![#](https://img.shields.io/badge/lint-supported-green.svg)
+### 1.2.13 Prefabs(预制体)  ![#](https://img.shields.io/badge/lint-supported-green.svg)
 
 | Asset Type | Prefix | Suffix | Notes |
 |------------|--------|--------|-------|
