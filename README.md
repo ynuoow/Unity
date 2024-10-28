@@ -64,9 +64,9 @@
 
 | 资源类型             | 资源名       |
 |------------------|-----------|
-| Static Mesh (01) | S_Rock_01 |
-| Static Mesh (02) | S_Rock_02 |
-| Static Mesh (03) | S_Rock_03 |
+| Static Mesh (01) | SM_Rock_01 |
+| Static Mesh (02) | SM_Rock_02 |
+| Static Mesh (03) | SM_Rock_03 |
 
 <a name="asset-name-modifiers"></a>
 <a name="1.2"></a>
