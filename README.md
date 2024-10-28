@@ -290,9 +290,7 @@ Mask)的形式保存在Diffuse/Albedo通道中。
         |   |-- FX                    特效音频
         |   |-- UI                    UI音频
         |-- TimeLine              动画片段
-
-</pre>
-
+    |-- <a href="#2.2">ArtDeveloper</a></pre>  测试白盒资源，资源补齐是删除此目录
 
 使用这种目录结构的原因列在下面
 
@@ -397,7 +395,7 @@ and `ASeriesOfWords`.
 <a name="2.3"></a>
 <a name="structure-developers"></a>
 
-### 2.3 用来做临时测试的开发者目录 ![#](https://img.shields.io/badge/lint-unsupported-red.svg)
+### 2.3 用来做临时测试的开发者目录《ArtDeveloper》![#](https://img.shields.io/badge/lint-unsupported-red.svg)
 
 在一个项目的开发期间，团队成员经常会有一个'沙箱'目录用来做测试而不会影响到工程本身。因为工作是连续的，所以即使这些'沙箱'
 目录也需要上传到源码服务器上保存。但并不是所有团队成员都需要这种开发者目录的，但使用开发者目录的成员来说，一旦这些目录是在服务器上管理的，总会需要一些麻烦事。
